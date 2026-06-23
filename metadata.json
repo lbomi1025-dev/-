@@ -1,0 +1,6 @@
+{
+  "name": "사서교사 임용 기출문제 분류기",
+  "description": "사서교사 임용시험 기출문제 PDF를 분석하여 과목, 평가 영역, 평가 내용 요소 및 ㉠㉡㉢ 작성방법 단위로 정교하게 자동 분류해 주는 프로그램입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
